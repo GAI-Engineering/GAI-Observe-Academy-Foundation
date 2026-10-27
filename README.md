@@ -42,11 +42,44 @@ Most members need a few sittings, not a semester. When you finish Module 4, open
 
 **Read → run → verify.** Read code before you run it. Run it. Then check that what it produced is what you expected — and if it isn't, that gap is the learning. This applies to code you write, code an AI assistant writes for you, and code in our own Lab notebooks, including ours. Our notebooks label their runs honestly — INTERIM for demonstrations, ILLUSTRATIVE for figures that show a pattern rather than a measurement — and Module 4 shows you how to read those labels.
 
+## The pointers — listed
+
+The external courses and references this course points to. Work them in the order the curriculum gives; this list is the map. Every link below was checked live when this page was written. Two pointers are listed by name only — find them in the provider's own catalogue (no link is better than a link we could not verify).
+
+- **Google Colab** — where every Lab notebook runs: https://colab.research.google.com/
+- **Kaggle Learn — Python** (Kaggle) — the hands-on Python practice: https://www.kaggle.com/learn/python
+- **Google's Python Class** (Google for Developers) — a compact, free Python course: https://developers.google.com/edu/python
+- **The Python Tutorial** (python.org) — the reference to keep open: https://docs.python.org/3/tutorial/
+- **Machine Learning Crash Course — prerequisites & prework** (Google for Developers): https://developers.google.com/machine-learning/crash-course/prereqs-and-prework
+- **Google Cloud Skills Boost catalogue** — the doorway to Google's Generative AI learning path (search "Generative AI" in the catalogue): https://www.cloudskillsboost.google/catalog
+- **"Python for Everybody" Specialization** (University of Michigan, on Coursera) — name only; search Coursera's catalogue.
+- **The Generative AI learning path** (Google Cloud Skills Boost) — name only; enter through the catalogue link above.
+
+## The videos — listed
+
+Each module has a mentored video on the Academy's YouTube channel, in the module's playlist — watch it alongside the written module. A video's direct link is added here **when the video publishes**, never before, so every link on this page works.
+
+| Module | Mentored video | Watch |
+|---|---|---|
+| 0 — Start in Colab | Your first notebook, run end to end | Link added at publish |
+| 1 — Python basics | The Python elements our notebooks use | Link added at publish |
+| 2 — Coding with an AI assistant | Read → run → verify, demonstrated | Link added at publish |
+| 3 — GenAI in plain terms | The concepts the POCs assume | Link added at publish |
+| 4 — Reading a Lab notebook | Anatomy of a POC notebook, live | Link added at publish |
+
+## Instructions — how to work through this course
+
+1. Open the module in `curriculum.md`. Read **What to learn** first — it is short by design.
+2. Watch the module's video (once published) for the worked demonstration.
+3. Follow the module's **Pointers** to the external course or reference, and do the exercises *there* — the real teaching lives with the provider.
+4. Come back and apply it: run the Lab notebook the module points you at, end to end, before moving on.
+5. Keep the habit everywhere: **read → run → verify** — including with code an AI assistant writes for you.
+
 ## Contents
 
 | File | What it is |
 |---|---|
-| `README.md` | This page — what the course is, who it serves, and what it is not. |
+| `README.md` | This page — what the course is, who it serves, what it is not, the full pointer list, the video list, and the instructions. |
 | `curriculum.md` | The five modules: Colab first, then Python basics, coding with an AI assistant, GenAI in plain terms, and how to read a Lab notebook. |
 
 ---
