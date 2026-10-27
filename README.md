@@ -4,7 +4,7 @@
 
 **Enough Google Colab and Python to open a POC Learning Lab notebook, run it, and understand what it did. No more, no less.**
 
-This repository is the foundation course of the **GAI Observe Academy**, the learning arm of GAI Observe LLC. It exists for one practical reason: members of the **Agentic AI Learning Community — GAI Observe Academy** kept meeting the same first obstacle. The Lab notebooks are where our learning happens, but a notebook only teaches you something if you can open it, run it, and follow what the code is doing. This course removes that obstacle.
+This repository is the foundation course of the **GAI Observe Academy**, the learning arm of GAI Observe LLC. It exists for one practical reason: it is built to remove the most common first obstacle for new members of the **Agentic AI Learning Community — GAI Observe Academy**. The Lab notebooks are where our learning happens, but a notebook only teaches you something if you can open it, run it, and follow what the code is doing. This course removes that obstacle.
 
 ## Who this is for
 
@@ -57,7 +57,7 @@ The external courses and references this course points to. Work them in the orde
 
 ## The videos — listed
 
-Each module has a mentored video on the Academy's YouTube channel, in the module's playlist — watch it alongside the written module. A video's direct link is added here **when the video publishes**, never before, so every link on this page works.
+Each module will have a mentored video on the Academy's YouTube channel, in the module's playlist — watch it alongside the written module. A video's direct link is added here **when the video publishes**, never before, so every link on this page works.
 
 | Module | Mentored video | Watch |
 |---|---|---|

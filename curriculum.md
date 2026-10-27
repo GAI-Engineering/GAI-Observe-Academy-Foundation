@@ -111,7 +111,7 @@ Every Lab notebook follows the same anatomy. Learn to find these parts, in this 
 2. **The idea.** The concept being tested, stated plainly — the pattern the POC exists to explore.
 3. **The run.** The code cells, executed in order. This is where Modules 0–2 pay off: follow the code, watch each cell's output appear beneath it, and notice where the notebook's claims come from.
 4. **The results.** What the run produced, stated next to the run that produced it.
-5. **The labels.** Look for the mode labels and take them seriously. **INTERIM** marks a scripted demonstration — the mechanics are real, the outcome is staged to show the pattern. **ILLUSTRATIVE** marks figures that demonstrate a pattern rather than report a measurement. A result only counts as a finding when the notebook shows a complete end-to-end run behind it. Reading the labels correctly *is* reading the notebook correctly.
+5. **The labels.** Look for the mode labels and take them seriously. **INTERIM** marks a scripted demonstration — the mechanics are real, the data is synthetic and the figures are illustrative. **ILLUSTRATIVE** marks figures that demonstrate a pattern rather than report a measurement. A result only counts as a finding when the notebook shows a complete end-to-end run behind it. Reading the labels correctly *is* reading the notebook correctly.
 
 **Then re-run one yourself, in Colab:**
 
